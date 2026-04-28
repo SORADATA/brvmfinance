@@ -1,11 +1,17 @@
+<p align="center">
+  <img src="doc/logo.png" width="450" alt="brvmfinance logo">
+</p>
+
 # brvmfinance
 
 **brvmfinance** est une bibliothèque Python conçue pour faciliter l'accès aux données boursières de la **BRVM** (Bourse Régionale des Valeurs Mobilières).
 
-[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://pypi.org/project/brvmfinance/)
-[![PyPi Version](https://img.shields.io/pypi/v/brvmfinance.svg)](https://pypi.org/project/brvmfinance/)
-[![Downloads](https://img.shields.io/pypi/dm/brvmfinance.svg?label=installs&color=%2327B1FF)](https://pypi.org/project/brvmfinance/)
-[![Stars](https://img.shields.io/github/stars/SORADATA/brvmfinance.svg?style=social)](https://github.com/SORADATA/brvmfinance)
+<p align="left">
+  <a href="https://pypi.org/project/brvmfinance/"><img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python Version"></a>
+  <a href="https://pypi.org/project/brvmfinance/"><img src="https://img.shields.io/pypi/v/brvmfinance.svg" alt="PyPi Version"></a>
+  <a href="https://pypi.org/project/brvmfinance/"><img src="https://img.shields.io/pypi/dm/brvmfinance.svg?label=installs&color=%2327B1FF" alt="Downloads"></a>
+  <a href="https://github.com/SORADATA/brvmfinance"><img src="https://img.shields.io/github/stars/SORADATA/brvmfinance.svg?style=social" alt="Stars"></a>
+</p>
 
 ---
 
